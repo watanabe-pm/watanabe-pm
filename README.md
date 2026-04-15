@@ -1,16 +1,19 @@
-## Hi there 👋
+# watanabe_pm
+AI実装を学びながら、PM × AI の実務翻訳を発信中。
 
-<!--
-**watanabe-pm/watanabe-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
+- 📜 PMP・Scrum Master・Product Owner 取得済み
+- 🤖 AI実装を学習中（学習ログを発信しています）
+- 💬 テーマ：PMがAIをどう実務に使うか
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Links
+- 𝕏 Twitter / X：[@watanabe_pm](https://x.com/watanabe_pm)
+- 📝 note：[note.com/watanabe_pm](https://note.com/watanabe_pm)
+
+---
+
+*学習ログ・実務翻訳・転換の過程をそのまま発信しています。*

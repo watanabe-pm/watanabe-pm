@@ -4,7 +4,7 @@ AI実装を学びながら、PM × AI の実務翻訳を発信中。
 ---
 
 ## About
-- 📜 PMP・Scrum Master・Product Owner 取得済み
+- 📜 PMP
 - 🤖 AI実装を学習中（学習ログを発信しています）
 - 💬 テーマ：PMがAIをどう実務に使うか
 
